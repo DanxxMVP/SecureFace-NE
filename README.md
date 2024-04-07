@@ -2,7 +2,12 @@
 
 # SecureFace-NE
 
-You can consult user manuals at [SecureFace-NE]([https://github.com/DanxxMVP/SecureFace-NE](https://drive.google.com/drive/folders/1eQ7SbtAZ7huvQltfnvhtKjj7Se_1M5PG?usp=drive_link)).
+Este proyecto de reconocimiento facial utiliza técnicas de visión por computadora y aprendizaje profundo para identificar y reconocer rostros en imágenes y videos. Implementado utilizando bibliotecas de Python como OpenCV y TensorFlow, este sistema es capaz de detectar la presencia de rostros en tiempo real, así como identificar y clasificar individuos previamente entrenados.
+
+Características principales:
+- Detección de Rostros: Utiliza algoritmos de detección de objetos para localizar y delimitar rostros en imágenes y videos.
+- Reconocimiento Facial: Utiliza modelos de aprendizaje profundo para reconocer y clasificar rostros basados en características únicas.
+- Interfaz de Usuario Amigable: Proporciona una interfaz intuitiva para cargar imágenes, realizar detecciones y visualizar resultados.
 
 ## Built With
 
@@ -61,8 +66,8 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [SecureFace-NE](https://github.com/DanxxMVP/SecureFace-NE).
-You can consult user manuals at [SecureFace-NE]([https://github.com/DanxxMVP/SecureFace-NE](https://drive.google.com/drive/folders/1eQ7SbtAZ7huvQltfnvhtKjj7Se_1M5PG?usp=drive_link)).
+Feel free to check the [SecureFace-NE](https://drive.google.com/drive/folders/1eQ7SbtAZ7huvQltfnvhtKjj7Se_1M5PG?usp=drive_link).
+You can consult user manuals
 ## Show your support
 
 Give a ⭐️ if you like this project!
