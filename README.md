@@ -2,7 +2,7 @@
 
 # SecureFace-NE
 
-> Description.
+You can consult user manuals at [SecureFace-NE]([https://github.com/DanxxMVP/SecureFace-NE](https://drive.google.com/drive/folders/1eQ7SbtAZ7huvQltfnvhtKjj7Se_1M5PG?usp=drive_link)).
 
 ## Built With
 
