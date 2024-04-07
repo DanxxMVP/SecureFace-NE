@@ -27,11 +27,11 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
---Text editor (Pycharm)
---git
---Cmake
---Python 3.8
---dlib 
+-- Text editor (Pycharm)
+-- git
+-- Cmake
+-- Python 3.8
+-- dlib 
 
 ### Install
 
