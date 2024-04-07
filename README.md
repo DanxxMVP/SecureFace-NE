@@ -54,10 +54,12 @@ To get a local copy up and running follow these simple example steps.
 ## Authors
 
 👤 **Author1**
-
 - GitHub: [@DanxxMVP](https://github.com/DanxxMVP)
+👤 **Author2**
 - GitHub: [@allop10](allop5602@gmail.com)
+👤 **Author3**
 - GitHub: [@noe-lopezzz]( a01903451@utmir.edu.mx)
+👤 **Author4**
 - GitHub: [@eleazin]()
   
 
