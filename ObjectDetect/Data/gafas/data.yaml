@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Spectacles']
+
+roboflow:
+  workspace: jeremy-dias
+  project: glasses-xxur4
+  version: 1
+  license: Public Domain
+  url: https://universe.roboflow.com/jeremy-dias/glasses-xxur4/dataset/1
