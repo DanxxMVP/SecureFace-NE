@@ -28,10 +28,10 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 - Text editor (Pycharm)
-- git
+- Git
 - Cmake
 - Python 3.8
-- dlib 
+- Dlib 
 
 ### Install
 
