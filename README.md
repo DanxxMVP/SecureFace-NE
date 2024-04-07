@@ -39,7 +39,7 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    https://github.com/DanxxMVP/SecureFace-NE.git
    ```
-2. Install NPM packages
+2. Install  packages and libreries
    ```sh
     pip intsall cmake
    ```
