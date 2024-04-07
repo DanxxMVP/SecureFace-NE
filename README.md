@@ -2,12 +2,12 @@
 
 # SecureFace-NE
 
-Este proyecto de reconocimiento facial utiliza técnicas de visión por computadora y aprendizaje profundo para identificar y reconocer rostros en imágenes y videos. Implementado utilizando bibliotecas de Python como OpenCV y TensorFlow, este sistema es capaz de detectar la presencia de rostros en tiempo real, así como identificar y clasificar individuos previamente entrenados.
+This facial recognition project utilizes computer vision techniques and deep learning to identify and recognize faces in images and videos. Implemented using Python libraries such as OpenCV and TensorFlow, this system is capable of real-time face detection, as well as identifying and classifying previously trained individuals.
 
-Características principales:
-- Detección de Rostros: Utiliza algoritmos de detección de objetos para localizar y delimitar rostros en imágenes y videos.
-- Reconocimiento Facial: Utiliza modelos de aprendizaje profundo para reconocer y clasificar rostros basados en características únicas.
-- Interfaz de Usuario Amigable: Proporciona una interfaz intuitiva para cargar imágenes, realizar detecciones y visualizar resultados.
+Key Features:
+-Face Detection: It employs object detection algorithms to locate and delineate faces in images and videos.
+-Facial Recognition: It utilizes deep learning models to recognize and classify faces based on unique features.
+-User-Friendly Interface: It provides an intuitive interface for uploading images, performing detections, and visualizing results.
 
 ## Built With
 
