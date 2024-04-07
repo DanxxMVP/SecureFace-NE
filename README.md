@@ -44,7 +44,7 @@ To get a local copy up and running follow these simple example steps.
     pip intsall cmake
    ```
    ```sh
-   pip install requeriment.txt
+   pip install requeriments.txt
    ```
    ```sh
    pip install dlib-19.22.99-cp38-cp38-win_amd64.whl
