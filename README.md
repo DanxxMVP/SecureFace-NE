@@ -41,7 +41,7 @@ To get a local copy up and running follow these simple example steps.
    ```
 2. Install  packages and libreries
    ```sh
-    pip intsall cmake
+    pip install cmake
    ```
    ```sh
    pip install requeriments.txt
