@@ -61,8 +61,7 @@ To get a local copy up and running follow these simple example steps.
 
 
 👤 **Author 3**
-- GitHub: [@noe-lopezzz]
-(https://github.com/noe-lopezzz)
+- GitHub: [@noe-lopezzz](https://github.com/noe-lopezzz)
   
 👤 **Author 4**
 - GitHub: [@eleazin]()
