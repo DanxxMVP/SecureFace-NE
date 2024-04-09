@@ -57,10 +57,12 @@ To get a local copy up and running follow these simple example steps.
 - GitHub: [@DanxxMVP](https://github.com/DanxxMVP)
   
 👤 **Author 2**
-- GitHub: [@allop10](allop5602@gmail.com)
-  
+- GitHub: [@allop10](https://github.com/allop10 )
+
+
 👤 **Author 3**
-- GitHub: [@noe-lopezzz]( a01903451@utmir.edu.mx)
+- GitHub: [@noe-lopezzz]
+(https://github.com/noe-lopezzz)
   
 👤 **Author 4**
 - GitHub: [@eleazin]()
