@@ -82,5 +82,5 @@ You can consult user manuals
 Give a ⭐️ if you like this project!
 
 
-## Atentamente El Equipo De:
+## Sincerely the team:
 [![LogoNE.png](https://i.postimg.cc/wvcp7K9W/LogoNE.png)](https://postimg.cc/ZBRgMMB3)
