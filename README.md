@@ -10,7 +10,7 @@ Key Features:
 - User-Friendly Interface: It provides an intuitive interface for uploading images, performing detections, and visualizing results.
   
 
-[![bannergit.png](https://i.postimg.cc/XJNCrLnb/bannergit.png)](https://postimg.cc/Jygngby6)
+[![buenogithub.png](https://i.postimg.cc/j5CHjT6T/buenogithub.png)](https://postimg.cc/phbh0g1c)
 
 ## Built With
 
