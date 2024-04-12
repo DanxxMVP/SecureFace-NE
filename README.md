@@ -10,7 +10,7 @@ Key Features:
 - User-Friendly Interface: It provides an intuitive interface for uploading images, performing detections, and visualizing results.
   
 
-[![Githun-Banner.png](https://i.postimg.cc/k5GCDRLH/Githun-Banner.png)](https://postimg.cc/3ksVcN8j)
+[![bannergit.png](https://i.postimg.cc/XJNCrLnb/bannergit.png)](https://postimg.cc/Jygngby6)
 
 ## Built With
 
