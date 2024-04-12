@@ -8,6 +8,7 @@ Key Features:
 - Face Detection: It employs object detection algorithms to locate and delineate faces in images and videos.
 - Facial Recognition: It utilizes deep learning models to recognize and classify faces based on unique features.
 - User-Friendly Interface: It provides an intuitive interface for uploading images, performing detections, and visualizing results.
+[![reconoce.png](https://i.postimg.cc/0Q7pSjwY/reconoce.png)](https://postimg.cc/VrLrQY4v)
 
 ## Built With
 
